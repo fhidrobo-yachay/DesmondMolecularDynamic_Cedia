@@ -6,4 +6,4 @@ NVIDIA Docker image must be downloaded and the Desmond software installed
 
 # Running
 Run the sim step:
-sbatch sim-step
+sbatch sim-step1.sh (this command requests platform resources and run the simulation)
